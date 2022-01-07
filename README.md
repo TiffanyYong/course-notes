@@ -1,5 +1,5 @@
 # course-notes
-Assorted LaTeX-ed notes for ECON, MATH and COMP classes.
+Assorted LaTeX-ed notes for ECON, MATH and COMP classes at McGill University
 
 Tutorials:
 - ECON 257D1 (Economic Statistics - Honours)
