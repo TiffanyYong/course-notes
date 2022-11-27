@@ -5,14 +5,14 @@ Assorted TeX-ed notes for ECON, MATH and COMP classes at McGill University
 
 I will be giving a Final Review Session for ECON 468 (Econometrics I - Honours) on **December 1st, 6PM–8PM** at an as of yet unknown location. 
 
-The notes for this session are named "econ468-final-review-[date]" where [date] is when I last updated the notes. I will be keeping an errata log here, just in case I make any grevious error (I really, really hope not). 
+The notes for this session are named "econ468-final-review-[date]" where [date] is when I last updated the notes. I will be keeping an errata log here, just in case I make any grevious error (I really, really hope not). To download the file, click on the file name and click download at the top right. 
 
 If there are any errata, or if you have any questions, **please email me at tiffany.yong@mail.mcgill.ca**. 
 
 
 ### About the notes
 
-You will notice that the notes are 30 pages long. This is meant to be an **exhaustive** resource for your final exam preparation. I have detailed out basically every proof you need, and section numbers and table of contents are clickable so you can jump between them. If you read and understand all of this, I'm fairly certain you're going to do well on the exam. 
+You will notice that the notes are 30 pages long. This is meant to be an **exhaustive** resource for your final exam preparation. I have detailed out basically every proof you need, and section numbers and table of contents are clickable once you've downloaded the pdf so you can jump between them. If you read and understand all of this, I'm fairly certain you're going to do well on the exam. 
 
 ### About the review session
 
