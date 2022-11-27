@@ -16,6 +16,8 @@ Feel free to star my repo if you have a github account :P.
 
 You will notice that the notes are 30 pages long. This is meant to be an **exhaustive** resource for your final exam preparation. I have detailed out basically every proof you need, and section numbers and table of contents are clickable once you've downloaded the pdf so you can jump between them. If you read and understand all of this, I'm fairly certain you're going to do well on the exam. 
 
+I would start by looking from Section 3 onwards - most of the content covered before that is just proofs I wanted to reference while still being complete, like how the OLS estimator is unbiased. If at any point you need to go back and look at that proof, it's there for you!
+
 ### About the review session
 
 
