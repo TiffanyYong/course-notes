@@ -7,7 +7,9 @@ I will be giving a Final Review Session for ECON 468 (Econometrics I - Honours) 
 
 The notes for this session are named "econ468-final-review-[date]" where [date] is when I last updated the notes. I will be keeping an errata log here, just in case I make any grevious error (I really, really hope not). To **download the file**, click on the file name and click download at the top right. 
 
-If there are any errata, or if you have any questions, **please email me at tiffany.yong@mail.mcgill.ca**. Feel free to star my repo if you have a github account :P. 
+If there are any errata, or if you have any questions, **please email me at tiffany.yong@mail.mcgill.ca**. 
+
+Feel free to star my repo if you have a github account :P. 
 
 
 ### About the notes
@@ -18,6 +20,8 @@ You will notice that the notes are 30 pages long. This is meant to be an **exhau
 
 
 For the actual review session, I will only be discussing **post-midterm content**, so **Section 3 onwards**. Sections 1 & 2 is just to familiarise yourself with all the pre-midterm stuff you need to understand the post-midterm content. If you are coming to the final review, please briefly scan through sections 1 & 2 **before coming**, and if you don't understand it, take the time to ensure you do. Otherwise I'm not sure if things will make much sense to you. 
+
+It would probably help if you came to the review session with a way to **reference the notes**, so you can focus less on copying and more on understanding. Whether this means having it open on an iPad / laptop or printing it out (sorry trees) is up to you. 
 
 If you're happy with the notes and understand everything, you may or may not want to come to the review session. I will be trying my best to give intuition and interesting examples for the material. 
 
