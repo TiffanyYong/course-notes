@@ -3,7 +3,7 @@ Assorted TeX-ed notes for ECON, MATH and COMP classes at McGill University
 
 ## ECON 468 Final Review
 
-The final review session has been given, recording here: 
+The final review session has been given, recording here: https://www.youtube.com/watch?v=Ll1r1A3Tj6k.
 
 The notes for this session are named "econ468-final-review-[date]" where [date] is when I last updated the notes. I will be keeping an errata log here.
 
