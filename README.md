@@ -19,6 +19,8 @@ I would start by looking from Section 3 onwards - most of the content covered be
 
 ### Errata log
 
+- December 6th:
+  - Cluster standard error, no square root in nT! >:(
 - December 1st:
   - Measurement error
     - the truth should be Y_i = \beta_0 + \beta_1 X + u_i
