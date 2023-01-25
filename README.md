@@ -1,39 +1,6 @@
 # course-notes
 Assorted TeX-ed notes for ECON, MATH and COMP classes at McGill University
 
-## ECON 468 Final Review
-
-The final review session has been given, recording here: https://www.youtube.com/watch?v=Ll1r1A3Tj6k.
-
-The notes for this session are named "econ468-final-review-[date]" where [date] is when I last updated the notes. I will be keeping an errata log here.
-
-If there are any errata, or if you have any questions, **please email me at tiffany.yong@mail.mcgill.ca**. 
-
-
-### About the notes
-
-You will notice that the notes are 30 pages long. This is meant to be an **exhaustive** resource for your final exam preparation. I have detailed out basically every proof you need, and section numbers and table of contents are clickable once you've downloaded the pdf so you can jump between them. If you read and understand all of this, I'm fairly certain you're going to do well on the exam. 
-
-I would start by looking from Section 3 onwards - most of the content covered before that is just proofs I wanted to reference while still being complete, like how the OLS estimator is unbiased. If at any point you need to go back and look at that proof, it's there for you!
-
-
-### Errata log
-
-- December 6th:
-  - Cluster standard error, no square root in nT! >:(
-- December 1st:
-  - Measurement error
-    - the truth should be Y_i = \beta_0 + \beta_1 X + u_i
-    - missing 2 tildes over "our actual regression is ..."
-    - E(u - beta_1 v|v), not +
-    - Cov(tilde X, tilde u) = Cov(tilde X, u) + beta_1 Cov(tilde X, -v)
-  - Time effects regression missing beta_0 
-- November 27th - none so far!
-
-
-
-## Other notes
-
 
 **Lecture notes:**
 - "Stringology" 
