@@ -16,6 +16,12 @@ Assorted TeX-ed notes for ECON, MATH and COMP classes at McGill University
   - Fall 2021, Prof. John W. Galbraith
 - ECON 468 (Econometrics I - Honours)
   - Fall 2022, Prof. Saraswata Chaudhuri
+
+**Cheat Sheets:**
+- ECON 468 (Econometrics I - Honours) Final
+  - Fall 2022, Prof. Russell Davidson
+- ECON 469 (Econometrics II - Honours) Midterm
+  - Winter 2023, Prof. Sílvia Gonçalves
   
 **Tutorials:**
 - ECON 257D1 (Economic Statistics - Honours)
