@@ -8,8 +8,6 @@ Assorted TeX-ed notes for ECON, MATH and COMP classes at McGill University
 - "Stringology" 
   - COMP 252 (Honours Algorithms and Data Structures), Winter 2022, Prof. Luc Devroye
   - Co-author: Alexandra Bell
-- MATH 254 (Honours Analysis 1) (INCOMPLETE)
-  - Fall 2020, Prof. Vojkan Jaksic
 
 **Final Review Sheets:**
 - ECON 257D1 (Economic Statistics - Honours)
